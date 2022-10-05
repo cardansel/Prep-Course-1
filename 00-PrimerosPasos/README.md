@@ -11,7 +11,7 @@
     </td>
   </tr>
 </table>
-
+<!--*************************-->
 # Primeros Pasos
 
 #### Preparando tu compu
